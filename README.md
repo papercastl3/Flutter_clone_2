@@ -1,8 +1,4 @@
-<style>
-  div{
-    display:flex;
- }
- </style>
+
 <div>
 <img src="https://user-images.githubusercontent.com/92132704/222870175-211d4ac6-58f2-4f34-bb97-b89b79b90322.png" height="300" width="180"/>
 <img src="https://user-images.githubusercontent.com/92132704/222870177-dcdeae00-ad40-4138-82c5-b4fd60a32832.png" height="300" width="180"/>
