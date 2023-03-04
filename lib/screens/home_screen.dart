@@ -77,6 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
           flex: 3,
           child: Center(
             child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 IconButton(
                   iconSize: 120,
